@@ -1,0 +1,22 @@
+@tailwind base;
+@font-face {
+    font-family: 'strawford';
+    src: url('../assets/fonts/Strawford-Regular.otf') format('otf'),
+       
+  };
+
+
+
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.gradientColor{
+  
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(24,35,80,1) 0%, rgba(24,35,80,1) 46%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 100%)
+  }
+    
+
+
